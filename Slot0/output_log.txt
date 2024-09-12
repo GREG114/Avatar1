@@ -1,0 +1,95 @@
+Initialize engine version: 2018.4.36f1 (6cd387d23174)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GT 1030 (ID=0x1d01)
+    Vendor:   
+    VRAM:     1981 MB
+    Driver:   31.0.15.3623
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.108 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Serialization depth limit 7 exceeded at 'JSONObject.list'. There may be an object composition cycle in one or more of your serialized classes.
+
+Serialization hierarchy:
+8: JSONObject.list
+7: JSONObject.list
+6: JSONObject.list
+5: JSONObject.list
+4: JSONObject.list
+3: JSONObject.list
+2: JSONObject.list
+1: JSONObject.list
+0: jsonData._skillJsonData
+
+ 
+(Filename:  Line: 128)
+
+Serialization depth limit 7 exceeded at 'JSONObject.list'. There may be an object composition cycle in one or more of your serialized classes.
+
+Serialization hierarchy:
+8: JSONObject.list
+7: JSONObject.list
+6: JSONObject.list
+5: JSONObject.list
+4: JSONObject.list
+3: JSONObject.list
+2: JSONObject.list
+1: GUIPackage::Skill.ItemAddSeid
+0: GUIPackage::SkillStaticDatebase.skills
+
+ 
+(Filename:  Line: 128)
+
+Serialization depth limit 7 exceeded at 'JSONObject.list'. There may be an object composition cycle in one or more of your serialized classes.
+
+Serialization hierarchy:
+8: JSONObject.list
+7: JSONObject.list
+6: JSONObject.list
+5: JSONObject.list
+4: JSONObject.list
+3: JSONObject.list
+2: JSONObject.list
+1: GUIPackage::Skill.ItemAddSeid
+0: GUIPackage::SkillDatebase.skills
+
+ 
+(Filename:  Line: 128)
+
+UnloadTime: 1.279700 ms
+[Message:   BepInEx] BepInEx 5.4.17.0 - 觅长生 (2024/9/4 15:24:09)
+[Info   :   BepInEx] Running under Unity v2018.4.36.7132039
+[Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
+[Info   :   BepInEx] Supports SRE: True
+[Info   :   BepInEx] System platform: Bits64, Windows
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.17.0]
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Workshop 1.0.0.0]
+[Info   :   BepInEx] 2 patcher plugins loaded
+[Info   :WorkshopLoader] 读取WorkshopLoader成功
+[Info   :WorkshopLoader] 开始加载本地Mod...
+[Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Info   :   BepInEx] BepInEx is about load the following assemblies:
+UnityEngine.CoreModule.dll
+[Info   :   BepInEx] The assemblies were dumped into C:\Program Files (x86)\Steam\steamapps\workshop\content\1189490\2824349934\BepInEx\DumpedAssemblies\觅长生
+[Info   :   BepInEx] Load any assemblies into the debugger, set breakpoints and continue execution.
+[Message:   BepInEx] Preloader finished
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Info   :   BepInEx] 0 plugins to load
+[Message:   BepInEx] Chainloader startup complete
+Odin Serializer ArchitectureInfo initialization with defaults (all unaligned read/writes disabled).
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+Odin Serializer detected whitelisted runtime platform WindowsPlayer and memory read test succeeded; enabling all unaligned memory read/writes.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
+初始化任务0 jsonData初始化 开始 2024/9/12 9:41:57
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug.bindings.h Line: 45)
+
